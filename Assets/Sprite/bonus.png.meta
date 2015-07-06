@@ -1,0 +1,781 @@
+fileFormatVersion: 2
+guid: e5b3651bbae11244fa6bd23dd4fab2c9
+timeCreated: 1435907988
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bonus_0
+    21300002: bonus_1
+    21300004: bonus_2
+    21300006: bonus_3
+    21300008: bonus_4
+    21300010: bonus_5
+    21300012: bonus_6
+    21300014: bonus_7
+    21300016: bonus_8
+    21300018: bonus_9
+    21300020: bonus_10
+    21300022: bonus_11
+    21300024: bonus_12
+    21300026: bonus_13
+    21300028: bonus_14
+    21300030: bonus_15
+    21300032: bonus_16
+    21300034: bonus_17
+    21300036: bonus_18
+    21300038: bonus_19
+    21300040: bonus_20
+    21300042: bonus_21
+    21300044: bonus_22
+    21300046: bonus_23
+    21300048: bonus_24
+    21300050: bonus_25
+    21300052: bonus_26
+    21300054: bonus_27
+    21300056: bonus_28
+    21300058: bonus_29
+    21300060: bonus_30
+    21300062: bonus_31
+    21300064: bonus_32
+    21300066: bonus_33
+    21300068: bonus_34
+    21300070: bonus_35
+    21300072: bonus_36
+    21300074: bonus_37
+    21300076: bonus_38
+    21300078: bonus_39
+    21300080: bonus_40
+    21300082: bonus_41
+    21300084: bonus_42
+    21300086: bonus_43
+    21300088: bonus_44
+    21300090: bonus_45
+    21300092: bonus_46
+    21300094: bonus_47
+    21300096: bonus_48
+    21300098: bonus_49
+    21300100: bonus_50
+    21300102: bonus_51
+    21300104: bonus_52
+    21300106: bonus_53
+    21300108: bonus_54
+    21300110: bonus_55
+    21300112: bonus_56
+    21300114: bonus_57
+    21300116: bonus_58
+    21300118: bonus_59
+    21300120: bonus_60
+    21300122: bonus_61
+    21300124: bonus_62
+    21300126: bonus_63
+    21300128: bonus_64
+    21300130: bonus_65
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: bonus_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 806
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bonus_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 837
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bonus_2
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 806
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bonus_3
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 837
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bonus_4
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 806
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bonus_5
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 837
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bonus_6
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 806
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bonus_7
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 837
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bonus_8
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 806
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bonus_9
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 837
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bonus_10
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 806
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bonus_11
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 837
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bonus_12
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 797
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bonus_13
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 797
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bonus_14
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 797
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bonus_15
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 797
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bonus_16
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 797
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bonus_17
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 797
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bonus_18
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 734
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bonus_19
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 757
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bonus_20
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 734
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bonus_21
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 757
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bonus_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 734
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bonus_23
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 757
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bonus_24
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 734
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bonus_25
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 757
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bonus_26
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 734
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bonus_27
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 757
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bonus_28
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 734
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bonus_29
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 757
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bonus_30
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 662
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bonus_31
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 717
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bonus_32
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 662
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bonus_33
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 717
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bonus_34
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 662
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bonus_35
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 717
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bonus_36
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 662
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bonus_37
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 717
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bonus_38
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 662
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bonus_39
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 717
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bonus_40
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 662
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bonus_41
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 717
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bonus_42
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 590
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bonus_43
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 590
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bonus_44
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 590
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bonus_45
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 590
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bonus_46
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 590
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bonus_47
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 590
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bonus_48
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 518
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bonus_49
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 518
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bonus_50
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 518
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bonus_51
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 518
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bonus_52
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 518
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bonus_53
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 518
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bonus_54
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 446
+        width: 26
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bonus_55
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 446
+        width: 26
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bonus_56
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 446
+        width: 26
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bonus_57
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 446
+        width: 26
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bonus_58
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 446
+        width: 26
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bonus_59
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 446
+        width: 26
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bonus_60
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 374
+        width: 16
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bonus_61
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 374
+        width: 16
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bonus_62
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 374
+        width: 16
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bonus_63
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 374
+        width: 16
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bonus_64
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 374
+        width: 16
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bonus_65
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 374
+        width: 16
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
